@@ -33,7 +33,7 @@ public class Software_D_fund {
             System.out.println(list[i].getAge());
         }
          System.err.println("Hello world");
-         System.out.println("Hello world");
+         System.out.println("Hello world"); // fetsh and merge 
     }
     
 }
