@@ -32,6 +32,7 @@ public class Software_D_fund {
             System.out.println(list[i].getName());
             System.out.println(list[i].getAge());
         }
+         System.err.println("Hello world");
     }
     
 }
